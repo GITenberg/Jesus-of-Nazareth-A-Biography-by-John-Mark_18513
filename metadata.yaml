@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18513#Jesus-of-Nazareth-A-Biography-by-John-Mark
 gutenberg_issued: '2006-06-05'
 gutenberg_type: Text
 identifiers:
